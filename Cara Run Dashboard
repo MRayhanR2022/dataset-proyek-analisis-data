@@ -1,0 +1,11 @@
+## Setup Environment - Anaconda Prompt
+```
+conda activate main-ds
+pip install numpy pandas scipy matplotlib seaborn streamlit babel
+```
+
+## Run steamlit app
+```
+cd "C:\Users\mrayh\OneDrive\Desktop\Proyek_Analisis_Data_MC006D5Y1862\proyek_analisis_data_dashboard"
+streamlit run proyek_analisis_data_dashboard.py
+```
